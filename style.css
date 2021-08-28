@@ -1,1 +1,35 @@
+h1,
+p {
+    color: rgba(0, 0, 255, 0.514);
+}
 
+
+/* 大标题 */
+
+.nihao {
+    background-color: rgb(255, 80, 217);
+    /* 小白标题 */
+}
+
+.banji {
+    font-size: 50px;
+    color: rgba(252, 215, 7, 0.596);
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+#boujn {
+    font-weight: normal;
+    color: rgb(14, 11, 11);
+}
+
+h1.nihao {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/* p.banji {
+    color: rgb(118, 255, 105);
+} */
