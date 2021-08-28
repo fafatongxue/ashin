@@ -29,7 +29,10 @@ h1.nihao {
     font-family: 'Times New Roman', Times, serif;
 }
 
-
-/* p.banji {
+p.banji {
     color: rgb(118, 255, 105);
-} */
+}
+
+img {
+    width: 100%;
+}
